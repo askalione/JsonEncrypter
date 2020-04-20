@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JsonEncrypter", "src\JsonEncrypter\JsonEncrypter.csproj", "{A1C4AD2D-0788-4EA3-8E78-B1AD627FF00A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1C4AD2D-0788-4EA3-8E78-B1AD627FF00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C4AD2D-0788-4EA3-8E78-B1AD627FF00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C4AD2D-0788-4EA3-8E78-B1AD627FF00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C4AD2D-0788-4EA3-8E78-B1AD627FF00A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49752137-C97B-41C2-828D-C574B660CA54}
+	EndGlobalSection
+EndGlobal
